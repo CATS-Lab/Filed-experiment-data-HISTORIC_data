@@ -1,0 +1,37 @@
+Data description:
+
+Col 1: global time (h/m/s). E.g., 11359.25 means 1 hour 13 min 59.25 s. Time interval is 0.05 s.
+Col 2: earth x-axis (m). 
+Col 3: earth y-axis (m).
+Col 4: speed (km/h).
+Col 5: latitude (degree).
+Col 6: lontitude (degree).
+
+
+File name description:
+
+E.g., veh1test1 means 1st vehicle in test 1.
+Total 12 vehicles.
+Total 21 tests including 12 oscillation (O) tests, 7 stationary (S) tests and 2 unclear tests.
+Test 1： S, v = 10 km/h.
+Test 2: O, v = [20,40] km/h, a = 2 km/h/s, T = 30 s.
+Test 3: O, v = [30,40] km/h, a = 1 km/h/s, T = 120 s.
+Test 4: O, v = [30,40] km/h, a = 2 km/h/s, T = 120 s.
+Test 5: O, v = [20,40] km/h, a = 1 km/h/s, T = 120 s.
+Test 6: O, v = [20,40] km/h, a = 2 km/h/s, T = 120 s.
+Test 7: not clear.
+Test 8: O, v = [60,70] km/h, a = 1 km/h/s, T = 30 s.
+Test 9: O, v = [60,70] km/h, a = 2 km/h/s, T = 30 s.
+Test 10: O, v = [50,70] km/h, a = 1 km/h/s, T = 30 s.
+Test 11: O, v = [50,70] km/h, a = 2 km/h/s, T = 30 s.
+Test 12： S, v = 20 km/h.
+Test 13： not clear.
+Test 14: S, v = 70 km/h.
+Test 15: S, v = 30 km/h.
+Test 16: S, v = 40 km/h.
+Test 17: S, v = 50 km/h.
+Test 18: S, v = 60 km/h.
+Test 19: O, v = [30,40] km/h, a = 1 km/h/s, T = 30 s.
+Test 20: O, v = [30,40] km/h, a = 2 km/h/s, T = 30 s.
+Test 21: O, v = [20,40] km/h, a = 1 km/h/s, T = 30 s.
+

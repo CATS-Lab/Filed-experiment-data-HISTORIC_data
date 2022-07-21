@@ -19,6 +19,12 @@ Configuration
 ---------------------
 Since the objective of the field experiments was to investigate the propagation of traffic oscillation and the relationships in traffic oscillation features, we conducted 21 experiments, including 12 oscillation experiments and 9 stationary experiments. Within each time period, the ideal leading vehicle speed profile would accelerate to the maximum speed with the designed acceleration rate, then cruise at the maximum speed, and finally decrease the speed to the minimum speed with a deceleration rate identical to the negation of the previous acceleration rate. Note that it is difficult for the leading vehicle driver to follow the perfect speed profile, and the driver was just asked to follow this profile as best as they can. Other drivers were told to follow the preceding vehicle as usual without overtaking. When approaching the end of the road segment, all GPS devices stopped collecting data, and the vehicle platoon made a U-turn and stopped. After all vehicles stopped, a new experiment run began, and the GPS devices restarted to collect data simultaneously.
 
+.. note::
+
+   Two example videos are included in the folder: 
+   * High speed trim.mp4
+   * Low speed trim.mp4
+
 .. attention::
 
    Please site our published paper

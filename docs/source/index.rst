@@ -23,12 +23,14 @@ Since the objective of the field experiments was to investigate the propagation 
 
    Two example videos are included in the folder: 
 
-   * High speed trim.mp4
-   * Low speed trim.mp4
+   * `High speed trim.mp4 <https://github.com/CATS-Lab/HISTORIC-data/blob/main/High%20speed%20tirm.mp4>`_
+   * `Low speed trim.mp4 <https://github.com/CATS-Lab/HISTORIC-data/blob/main/Low%20speed%20tirm.mp4>`_
 
+
+ 
 .. attention::
 
-   Please site our published paper
+   Please site our published paper <br/>
    `Yao, H., Li, Q., & Li, X. (2020). A study of relationships in traffic oscillation features based on field experiments. Transportation Research Part A: Policy and Practice, 141, 339-355 <https://doi.org/10.1016/j.tra.2020.09.006>`_
 
 

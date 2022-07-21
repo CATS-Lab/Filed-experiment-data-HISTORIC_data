@@ -30,7 +30,7 @@ Since the objective of the field experiments was to investigate the propagation 
  
 .. attention::
 
-   Please site our published paper <br/>
+   Please site our published paper <br>
    `Yao, H., Li, Q., & Li, X. (2020). A study of relationships in traffic oscillation features based on field experiments. Transportation Research Part A: Policy and Practice, 141, 339-355 <https://doi.org/10.1016/j.tra.2020.09.006>`_
 
 
